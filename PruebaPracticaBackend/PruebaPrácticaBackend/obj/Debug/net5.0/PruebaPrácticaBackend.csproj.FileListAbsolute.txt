@@ -1,0 +1,7 @@
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.csproj.AssemblyReference.cache
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.AssemblyInfoInputs.cache
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.AssemblyInfo.cs
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.csproj.CoreCompileInputs.cache
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\70128\source\repos\PruebaPrácticaBackend\PruebaPrácticaBackend\obj\Debug\net5.0\PruebaPrácticaBackend.MvcApplicationPartsAssemblyInfo.cache
